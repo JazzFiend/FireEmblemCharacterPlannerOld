@@ -1,0 +1,20 @@
+# Java Class Files
+*.class
+
+# vscode
+.vscode
+
+# Build Artifacts
+target/
+reports/
+
+# Maven Artifacts
+.classpath
+.project
+.settings
+
+# Node Artifacts
+node_modules/
+
+# IntelliJ Files
+.idea/
